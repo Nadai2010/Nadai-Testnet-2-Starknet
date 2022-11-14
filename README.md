@@ -12,9 +12,9 @@ NOTA: Revisar siempre las extensiones oficiales por fraudes de PHISHING.
 
 ## Creación de cuenta y recbir G-ETH
 
-Ahora crearemos una nuva dirección en nuestra wallet de [Braavos] y copiaremos su dirección que pegaremos en el [Smart de Proxy](https://goerli.etherscan.io/address/0xaea4513378eb6023cf9ce730a26255d0e3f075b9#writeProxyContract#F3) en el paso 3 `deposit` indicando la cantidad de G-ETH a transferir 
+Ahora crearemos una nuva dirección en nuestra wallet de `Braavos` y copiaremos su dirección que pegaremos en el [Smart de Proxy](https://goerli.etherscan.io/address/0xaea4513378eb6023cf9ce730a26255d0e3f075b9#writeProxyContract#F3) en el paso 3 `deposit` indicando la cantidad de G-ETH a transferir 
 
-![Graph](//Imágenes/deposit.png)
+![Graph](/Imágenes/deposit.png)
 
 * [HASH](https://goerli.etherscan.io/tx/0xa4aecc394e27b9da0c0d0ae9a3aa7d40c12d13c7b97c708a1ae3764d172edb9f#statechange)
 
