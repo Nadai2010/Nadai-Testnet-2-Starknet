@@ -20,12 +20,11 @@ Ahora crearemos una nuva dirección en nuestra wallet de [Braavos] y copiaremos 
 
 Si todo ha ido bien puede comprobar que le ha llegado su `G-ETH` a su nueva red de pruebas de Starknet.
 
-### Faucet & Bridge
+### Faucet & Bridge & Explorador 
 
 #### Starknet L2
 
 * https://faucet.goerli.starknet.io/
-
 
 #### Goerli L1
 
@@ -36,3 +35,8 @@ Si todo ha ido bien puede comprobar que le ha llegado su `G-ETH` a su nueva red 
 #### Brdige Oficial 
 
 * https://goerli.starkgate.starknet.io/
+
+#### Exploradores de Bloques Tesnet2
+
+* https://testnet-2.starkscan.co/
+* https://goerli-2.voyager.online/
